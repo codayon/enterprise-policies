@@ -73,8 +73,8 @@ This configuration aims to provide a more streamlined and privacy-respecting bro
 
 - Download the policies.json file.
 - Place the file in the appropriate location on your system:
-    - `/etc/firefox/policies` or the equivalent directory for your Firefox configuration.
-- Check out [about:policies](about:policies) inside Firefox.
+  - `/etc/firefox/policies` or the equivalent directory for your Firefox configuration.
+- Check out `about:policies` inside Firefox.
 
 ## Reference
 
