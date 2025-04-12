@@ -1,0 +1,66 @@
+{
+    "policies": {
+        "BlockAboutProfiles": true,
+        "DefaultDownloadDirectory": "${home}/Downloads",
+        "DisableFirefoxAccounts": true,
+        "DisableFormHistory": true,
+        "DisableMasterPasswordCreation": true,
+        "DisableProfileImport": true,
+        "DisableProfileRefresh": true,
+        "DisableTelemetry": true,
+        "DisplayBookmarksToolbar": "never",
+        "DisablePocket": true,
+        "HardwareAcceleration": true,
+        "NoDefaultBookmarks": true,
+        "OfferToSaveLogins": false,
+        "OfferToSaveLoginsDefault": false,
+        "PasswordManagerEnabled": false,
+        "PromptForDownloadLocation": true,
+        "ShowHomeButton": true,
+        "TranslateEnabled": false,
+        "Cookies": {
+            "Allow": [
+                "https://www.google.com/",
+                "https://mail.google.com/",
+                "https://classroom.google.com/",
+                "https://github.com/",
+                "https://gist.github.com/",
+                "https://chat.deepseek.com/",
+                "https://chatgpt.com/",
+                "https://web.whatsapp.com/",
+                "https://www.youtube.com/",
+                "https://www.figma.com/"
+            ]
+        },
+        "UserMessaging": {
+            "ExtensionRecommendations": false,
+            "FeatureRecommendations": false,
+            "UrlbarInterventions": false,
+            "SkipOnboarding": true,
+            "MoreFromMozilla": false,
+            "FirefoxLabs": false
+        },
+        "SanitizeOnShutdown": {
+            "Cache": true,
+            "Cookies": true,
+            "History": true,
+            "Sessions": true,
+            "SiteSettings": true
+        },
+        "FirefoxHome": {
+            "SponsoredTopSites": false,
+            "Highlights": false,
+            "Pocket": false,
+            "SponsoredPocket": false
+        },
+        "ExtensionSettings": {
+            "uBlock0@raymondhill.net": {
+                "installation_mode": "force_installed",
+                "install_url": "https://addons.mozilla.org/firefox/downloads/latest/ublock-origin/latest.xpi"
+            }
+        },
+        "FirefoxSuggest": {
+            "SponsoredSuggestions": false
+        }
+    }
+}

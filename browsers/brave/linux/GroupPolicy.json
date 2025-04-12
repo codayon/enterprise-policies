@@ -1,0 +1,14 @@
+{
+    "SyncDisabled": true,
+    "BraveAIChatEnabled": false,
+    "BraveRewardsDisabled": true,
+    "BraveVPNDisabled": true,
+    "BraveWalletDisabled": true,
+    "PasswordManagerEnabled": false,
+    "PasswordLeakDetectionEnabled": false,
+    "PasswordSharingEnabled": false,
+    "PromotionsEnabled": false,
+    "AutofillAddressEnabled": false,
+    "AutofillCreditCardEnabled": false,
+    "MetricsReportingEnabled": false
+}
