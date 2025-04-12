@@ -28,8 +28,8 @@ These configurations are designed to enhance privacy, security, and user control
 
 - Download the GroupPolicy.json file.
 - Place the file in the appropriate location on your system:
-    - `/etc/brave/policies/managed/` or the equivalent directory for your Brave configuration.
-- Check out [about:policies](about:policies) inside Firefox.
+  - `/etc/brave/policies/managed/` or the equivalent directory for your Brave configuration.
+- Check out [brave://policy/](brave://policy/) inside Firefox.
 
 **For Windows Users**:
 
