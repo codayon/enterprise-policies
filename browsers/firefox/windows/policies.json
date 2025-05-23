@@ -1,0 +1,35 @@
+{
+  "policies": {
+    "BlockAboutProfiles": true,
+    "DisableFirefoxAccounts": true,
+    "DisableFormHistory": true,
+    "DisableMasterPasswordCreation": true,
+    "DisableProfileImport": true,
+    "DisableTelemetry": true,
+    "DisplayBookmarksToolbar": "never",
+    "DisablePocket": true,
+    "NoDefaultBookmarks": true,
+    "OfferToSaveLogins": false,
+    "OfferToSaveLoginsDefault": false,
+    "PasswordManagerEnabled": false,
+    "PromptForDownloadLocation": true,
+    "ShowHomeButton": true,
+    "TranslateEnabled": false,
+    "UserMessaging": {
+      "ExtensionRecommendations": false,
+      "FeatureRecommendations": false,
+      "SkipOnboarding": true,
+      "MoreFromMozilla": false,
+      "FirefoxLabs": false
+    },
+    "FirefoxHome": {
+      "SponsoredTopSites": false,
+      "Highlights": false,
+      "Pocket": false,
+      "SponsoredPocket": false
+    },
+    "FirefoxSuggest": {
+      "SponsoredSuggestions": false
+    }
+  }
+}
